@@ -1,4 +1,3 @@
-
 # Calculator
 
 This project is created to practice my HTML,CSS and js skills
@@ -16,3 +15,5 @@ This project is created to practice my HTML,CSS and js skills
 ## Status
 
 Project is: Complete
+## link to published app
+https://kwatra44.github.io/Calculator/
